@@ -1,0 +1,7 @@
+A sample application using Padrino (http://www.padrinorb.com), Mongoid (http://www.mongoid.org)
+and delayed_job(http://github.com/collectiveidea/delayed_job) on Heroku (http://www.heroku.com)
+
+Usage:
+$ bundle install
+$ padrino rake create
+
